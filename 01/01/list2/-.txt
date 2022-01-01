@@ -1,0 +1,4 @@
+-.txt
+list.bat
+qq (1).jpg
+qq (2).jpg
