@@ -3,11 +3,16 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 08.2
+<img src="https://pbs.twimg.com/media/FIjpIaYaQAAnjNs?format=jpg&name=large" width="360" height="auto">
+<img src="https://pbs.twimg.com/media/FIjpJ0waAAY-lFi?format=jpg&name=large" width="360" height="auto">
+
 # 08.1
 <img src="https://pbs.twimg.com/media/FIjpELAakAAxh_w?format=jpg&name=large" width="360" height="auto">
 <img src="https://pbs.twimg.com/media/FIjpFG_aIAAZTn4?format=jpg&name=large" width="360" height="auto">
-<img src="https://pbs.twimg.com/media/FIjpIaYaQAAnjNs?format=jpg&name=large" width="360" height="auto">
-<img src="https://pbs.twimg.com/media/FIjpJ0waAAY-lFi?format=jpg&name=large" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/148633108-c45980c7-beb1-43a9-9cc3-0a93d239c40e.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/148633114-342f374f-8095-4ca4-a49a-0258c4110a33.jpg" width="360" height="auto">
+
 
 
 
