@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/wotupset/2022/new220101/README.md
 
 https://github.com/wotupset/2022/raw/new220101/readme.md
 
+# 您擁有高貴於王的血統
+<img src="https://user-images.githubusercontent.com/4385327/149928286-fdb70db9-38ff-47aa-a7b1-90d593abfbc0.jpg" width="360" height="auto">
+
 # 「あの忘れえぬ日々 そのために今、生きている」オモイカネ
 <img src="https://user-images.githubusercontent.com/4385327/148957327-272a7528-06df-4c49-96e4-7f5c4b29a7de.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/148957452-c203c73f-4c35-4d24-8844-58e84f1aa8a0.jpg" width="360" height="auto">
@@ -21,4 +24,5 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 # 維繫者正在死去，創造者尚未到來，但世界不會再度灼燒，因為你將登上『神』之座。
 + 風帶來了新的故事 時間使之成為神話
+
 
