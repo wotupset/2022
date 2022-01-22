@@ -28,3 +28,4 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 + 風帶來了新的故事 時間使之成為神話
 
 
+# 曲高未必人不識 自有知音和清詞
