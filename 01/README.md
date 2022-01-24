@@ -12,6 +12,7 @@
 
 # 18
 <img src="https://user-images.githubusercontent.com/4385327/149928286-fdb70db9-38ff-47aa-a7b1-90d593abfbc0.jpg" width="360" height="auto">
+<img src="https://camo.githubusercontent.com/58b6cb6091f8f064ac8206be04729e9cb974779bf6a3e6cbcd839dbd91511b69/68747470733a2f2f66696c65732e6769747465722e696d2f3538383036386566643733343038636534663434386163322f543354692f313634323538343734303134322e6a7067" width="360" height="auto">
 
 # 10.2
 <img src="https://user-images.githubusercontent.com/4385327/148772495-2c20d596-b061-421c-a524-31c0ca5ffa9c.jpg" width="360" height="auto">
