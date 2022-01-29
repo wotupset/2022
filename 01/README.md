@@ -5,6 +5,7 @@
 # ==
 # 29
 <img src="https://user-images.githubusercontent.com/4385327/151654497-51d5802b-97a0-410c-be42-a09057708c3f.jpg" width="360" height="auto">
+請為了人類盡情地生小孩吧
 
 # 26.1
 <img src="https://user-images.githubusercontent.com/4385327/151197932-0a434a85-e87c-4ed5-9f86-93d21f38cb19.jpg" width="360" height="auto">
