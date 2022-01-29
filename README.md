@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/wotupset/2022/new220101/README.md
 
 https://github.com/wotupset/2022/raw/new220101/readme.md
 
+<img src="https://cdn.discordapp.com/attachments/190395038386225152/936929049127837736/220128_FKKXnugXEAIOXk_.jpg" width="360" height="auto">
+
 # 您擁有高貴於王的血統
 <img src="https://user-images.githubusercontent.com/4385327/149928286-fdb70db9-38ff-47aa-a7b1-90d593abfbc0.jpg" width="360" height="auto">
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/T3Ti/1642584740142.jpg" width="360" height="auto"> Yes, Your Majesty! 
