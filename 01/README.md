@@ -3,6 +3,14 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 29.2
+<img src="https://user-images.githubusercontent.com/4385327/151663312-5a252aeb-52d9-4f64-80c6-cd874a9360fc.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/151663313-f8381f98-50e0-4b79-93c0-fdba99ce6e0f.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/151663314-82bf7fca-0419-4413-9bc2-ce241266964d.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/FMi4/NC-Raws-Wa-Ni-Ta-Si-De-Shou-Zha---15-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_03.07.753.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/FMi4/NC-Raws-Wa-Ni-Ta-Si-De-Shou-Zha---15-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_03.07.753.jpg" width="360" height="auto">
+
+
 # 29.1
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/936929049127837736/220128_FKKXnugXEAIOXk_.jpg" width="360" height="auto">
 
