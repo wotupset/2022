@@ -3,6 +3,10 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 31.1
+<img src="https://user-images.githubusercontent.com/4385327/151842150-ffb671a0-6106-48e4-973a-c29f3c1c6b78.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/151842159-96005943-2504-4a82-9cbb-e84cff4c522b.jpg" width="360" height="auto">
+
 # 31
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/iSM7/NC-Raws-Jin-Ji-De-Ju-Ren-The-Final-Season---20-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_16.02.061.jpg" width="360" height="auto">
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/6RSD/NC-Raws-Jin-Ji-De-Ju-Ren-The-Final-Season---20-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_16.08.021.jpg" width="360" height="auto">
