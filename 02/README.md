@@ -3,6 +3,10 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 27
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/dUOz/NC-Raws-Lian-Shang-Huan-Zhuang-Wa-Wa---08-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_09.58.697.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/Jvrg/1111.jpg" width="360" height="auto">
+
 # 23.1
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/LPC4/NC-Raws-Yu-Bian-Cheng-Liao-Yi-Shi-Jie-Mei-Shao-Nu-De-Da-Shu-Yi-Qi-Mou-Xian---07-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_03.05.890.jpg" width="360" height="auto">
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/T5tQ/NC-Raws-Yu-Bian-Cheng-Liao-Yi-Shi-Jie-Mei-Shao-Nu-De-Da-Shu-Yi-Qi-Mou-Xian---07-Baha-1920x1080-AVC-AAC-MP4-.mp4_snapshot_03.10.884.jpg" width="360" height="auto">
