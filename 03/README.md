@@ -5,6 +5,9 @@
 # ==
 # 20
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/fadd/220320_FNE0WToacAAqH4B.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/kaUu/220319_FN4IfxWaQAAP3bP.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/Mcj0/220319_FN_jk9NVcAA1cHg.jpg" width="360" height="auto">
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/Iq82/220321_FHfz7CsaAAEv-db.jpg" width="360" height="auto">
 
 # 15.1
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/953523532304891964/aaa_cr.png" width="360" height="auto">
