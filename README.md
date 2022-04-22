@@ -36,6 +36,7 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 # 曲高未必人不識 自有知音和清詞
 
+# primeval god Phanes,
 ```
 英譯：You scattered the dark mist that lay before your eyes and, flapping your wings, you whirled about, and throughout this world you brought pure light. For this I call you Phanes.
 漢譯：祢疏散了位在祢眼前的黑霧並且，揮舞祢的雙翼，祢轉過了身，以及在這個世界上的每一處祢帶來了純淨的光。為此我呼喚著祢法涅斯。
