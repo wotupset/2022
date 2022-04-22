@@ -35,3 +35,16 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 
 # 曲高未必人不識 自有知音和清詞
+
+```
+英譯：You scattered the dark mist that lay before your eyes and, flapping your wings, you whirled about, and throughout this world you brought pure light. For this I call you Phanes.
+漢譯：祢疏散了位在祢眼前的黑霧並且，揮舞祢的雙翼，祢轉過了身，以及在這個世界上的每一處祢帶來了純淨的光。為此我呼喚著祢法涅斯。
+
+英譯：Of the First-born king, the reverend one; and upon him all the immortals grew, blessed gods and goddesses and rivers and lovely springs and everything else that had then been born; and he himself became the sole one.[10]
+漢譯：最初出生的君王，應受尊敬者；並且在祂身上所有不朽的神靈正生長著，受祝福的男神們與女神們以及江川河流還有旖旎的春天加上其他一切誕生了；並且祂的本身成為了唯一的一尊。
+
+英譯：Primeval, two-natured, thrice-born, Bacchic lord, savage, ineffable, secretive, two-horned, and two-shaped.
+漢譯：太古原初時代，兩種截然不同的本性，三次出生，酒神君主，原始的，不可見的，秘密的，雙角的，以及雙形態的。
+
+
+```
