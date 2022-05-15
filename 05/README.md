@@ -3,6 +3,10 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 14.2
+<img src="https://user-images.githubusercontent.com/4385327/168456335-d0a54705-0bd0-4aed-b94d-799871ac999e.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/168456340-8bd2d5d7-706f-4114-b23b-a8468d1aec36.jpg" width="360" height="auto">
+
 # 14
 <img src="https://user-images.githubusercontent.com/4385327/168429522-d9b35f0b-b719-4a0c-8794-d6a0dee08d04.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/168429526-ebaaf7d4-9cc9-4bbd-97b5-cfa839868aea.jpg" width="360" height="auto">
