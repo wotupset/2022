@@ -3,6 +3,18 @@
 <img src="" width="360" height="auto">
 
 # ==
+# 19.2
+<img src="https://user-images.githubusercontent.com/4385327/169344529-74742b42-434e-43fb-b3d6-c461a377a0ab.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169344536-ee700345-1f9a-4c7e-bec9-fe34a2469d7b.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169344541-99434755-0009-4aef-8978-e6a44ef00fda.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169344542-178a5aae-21ef-4b74-913e-d9ebb2d8dd25.jpg" width="360" height="auto">
+
+# 19
+<img src="https://user-images.githubusercontent.com/4385327/169343512-2de3d4ed-11d0-4272-b859-76f6d8328623.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169343582-ac44e935-8c0e-489f-9dc0-6b54f9ae6aef.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169343707-b799368c-3c9c-4889-b0ce-a0f425ed907d.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/169343475-b77475ea-41d2-43f6-91a4-6dd27d0d6148.jpg" width="360" height="auto">
+
 # 18.2
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/POEG/220518_FSopCafaIAAiua1-1-.jpg" width="360" height="auto">
 
