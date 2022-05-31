@@ -56,3 +56,6 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 # Messiah 彌賽亞 メシア
 <img src="https://user-images.githubusercontent.com/4385327/170085143-bb1b7cea-fdad-455f-a628-1286926f5816.jpg" width="360" height="auto">
+
+# 世界を滅ぼしてでも 世界を救おう
+<img src="https://user-images.githubusercontent.com/4385327/171193840-f2fc5eb9-8490-456c-b98b-05ed4cc0fad9.jpg" width="360" height="auto">
