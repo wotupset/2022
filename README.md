@@ -15,6 +15,8 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 # The time hath come
 # 時は来た。
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/zKAp/maxresdefault.jpg" width="360" height="auto">
+<img  src="https://user-images.githubusercontent.com/4385327/171087167-e7060699-8920-4000-86e5-77e9d2566eef.jpg" width="360" height="auto">
+
 
 
 # 「あの忘れえぬ日々 そのために今、生きている」オモイカネ
@@ -54,4 +56,3 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 # Messiah 彌賽亞 メシア
 <img src="https://user-images.githubusercontent.com/4385327/170085143-bb1b7cea-fdad-455f-a628-1286926f5816.jpg" width="360" height="auto">
-
