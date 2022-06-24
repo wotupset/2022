@@ -61,5 +61,6 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 <img src="https://user-images.githubusercontent.com/4385327/171193840-f2fc5eb9-8490-456c-b98b-05ed4cc0fad9.jpg" width="360" height="auto">
 
 # 路加福音 1:78
-1:78因我們神憐憫的心腸、叫清晨的日光從高天臨到我們、
-1:79要照亮坐在黑暗中死蔭裡的人．把我們的腳引到平安的路上。
++ 1:78因我們神憐憫的心腸、叫清晨的日光從高天臨到我們、
++ 1:79要照亮坐在黑暗中死蔭裡的人．把我們的腳引到平安的路上。
+<img src="https://user-images.githubusercontent.com/4385327/175695848-6dc91abc-2bae-4e19-9fb6-e046c717e840.jpg" width="360" height="auto">
