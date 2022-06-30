@@ -66,4 +66,4 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 <img src="https://user-images.githubusercontent.com/4385327/175695848-6dc91abc-2bae-4e19-9fb6-e046c717e840.jpg" width="360" height="auto">
 
 # 八星連珠
-
+<img src="https://files.gitter.im/588068efd73408ce4f448ac2/hKaY/220630_FVkH5kXVIAENji-.jpg" width="360" height="auto">
