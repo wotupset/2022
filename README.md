@@ -64,3 +64,5 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 + 1:78因我們神憐憫的心腸、叫清晨的日光從高天臨到我們、
 + 1:79要照亮坐在黑暗中死蔭裡的人．把我們的腳引到平安的路上。
 <img src="https://user-images.githubusercontent.com/4385327/175695848-6dc91abc-2bae-4e19-9fb6-e046c717e840.jpg" width="360" height="auto">
+
+<img src="https://user-images.githubusercontent.com/4385327/176645120-0ba48a97-5e96-4c3d-a9e1-c4702ad577e1.jpg" width="360" height="auto">
