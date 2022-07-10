@@ -67,3 +67,8 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 
 # 八星連珠
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/hKaY/220630_FVkH5kXVIAENji-.jpg" width="360" height="auto">
+
+```
+God is God all by Himself. He can do ANYTHING He wants to do. That includes striking down Satanic Guidestones.
+https://twitter.com/KandissTaylor/status/1544691940083507204
+```
