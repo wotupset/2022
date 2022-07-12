@@ -15,7 +15,7 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 # The time hath come
 # 時は来た。
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/zKAp/maxresdefault.jpg" width="360" height="auto">
-<img  src="https://user-images.githubusercontent.com/4385327/171087167-e7060699-8920-4000-86e5-77e9d2566eef.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/171087167-e7060699-8920-4000-86e5-77e9d2566eef.jpg" width="360" height="auto">
 
 
 
@@ -72,3 +72,7 @@ https://github.com/wotupset/2022/raw/new220101/readme.md
 God is God all by Himself. He can do ANYTHING He wants to do. That includes striking down Satanic Guidestones.
 https://twitter.com/KandissTaylor/status/1544691940083507204
 ```
+# 唉想家了 有媽媽的味道
+<img src="https://cdn.discordapp.com/attachments/190395038386225152/996448058546061392/1657618040945.jpg" width="360" height="auto">
+#  宇宙居然那麼漂亮
+<img src="https://cdn.discordapp.com/attachments/190395038386225152/996447542575370371/1657639497489.jpg" width="360" height="auto">
