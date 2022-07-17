@@ -77,3 +77,7 @@ https://twitter.com/KandissTaylor/status/1544691940083507204
 
 #  宇宙居然那麼漂亮
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/996447542575370371/1657639497489.jpg" width="360" height="auto">
+
+# 人嘛 總是要回家的
+<img src="https://user-images.githubusercontent.com/4385327/179399931-2bc05c01-e26e-4de3-aaa3-f76f1d5d9661.jpg" width="360" height="auto">
+
