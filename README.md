@@ -81,3 +81,53 @@ https://twitter.com/KandissTaylor/status/1544691940083507204
 # 人嘛 總是要回家的
 <img src="https://user-images.githubusercontent.com/4385327/179399931-2bc05c01-e26e-4de3-aaa3-f76f1d5d9661.jpg" width="360" height="auto">
 
+# 令我的子民自由，不囿於古老法則。
+# 我が民に自由を与え、古き法則に囚われぬように
+# May my people be freed from the shackles of ancient decrees.
+
+
+```
+### https://youtu.be/QKsCk0LEvhw?t=3072 中文字幕
+一個暴風雨的夜晚
+少女從圖書館中找到了前往未來的路
+她對自己說
+要創造自己的夢想之國
+撿起石頭搭出城堡與鄉鎮 鋪上山嶺與海洋
+並告訴所有同樣抱有夢想的靈魂
+請為一切不真實之物感到驕傲
+因為我們高於這個世界
+因為 吾等金碧輝煌的王國 是狹小又禁忌的樂土
+
+```
+
+```
+### https://www.youtube.com/watch?v=BhONY6LT4TU 日文
+ある嵐の夜
+少女は図書館の中で
+進むべき未来の道を見つけた
+少女は自身に言う
+自らの夢の国を作ろう
+石を拾って城と町を作り
+山と海を拓くのだ
+そして同じ夢を持つすべての魂にこう伝えた
+すべての非現実的なものに誇りを持て
+我らはこの世界よりも
+上にある！
+なぜなら金碧に輝く我らが国は
+小さくも 禁忌の楽土である！
+```
+
+```
+### https://www.youtube.com/watch?v=CEDKZLOrw0Y 英文
+One stormy night
+A girl found a way to the future in the library
+She said to herself:
+I shall create my dream kingdom
+I'll carve mountains and oceans, and erect castles and towns
+Then she spoke to those who shared her dream:
+Please be proud of all that is unreal
+For we are greater than this world!
+For our magnificent kingdom is a small and forbidden paradise
+
+```
+
